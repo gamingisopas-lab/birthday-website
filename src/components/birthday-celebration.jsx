@@ -26,7 +26,7 @@ export default function BirthdayCelebration() {
           <Sparkles className="w-8 h-8 text-yellow-500" />
           <Heart className="w-8 h-8 text-pink-500" />
         </div>
-        <h3 className="text-2xl sm:text-3xl font-bold text-center text-pink-600 mt-2">Dhriyaaa!!!</h3>
+        <h3 className="text-2xl sm:text-3xl font-bold text-center text-pink-600 mt-2">Dhriya!!</h3>
       </motion.div>
 
       <motion.div
