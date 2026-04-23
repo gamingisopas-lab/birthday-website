@@ -90,7 +90,7 @@ export default function BirthdayCelebration() {
                 <p className="text-purple-700 mb-2">
                Just wanted to remind you—you’re one of my closest friend forever. My days feel better and way more fun because of you.
                 </p>
-                <p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 🫶🎂</p>
+                <p className="text-pink-600 font-medium">I hope your birthday is full of love, fun, and everything that makes you smile 🫶🎂</p>
                 <div className="flex justify-center">
                   <motion.div
                     animate={{
